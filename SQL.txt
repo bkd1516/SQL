@@ -1,0 +1,37 @@
+DML
+
+SELECT (저장자료 조히)
+INSIRT 
+UPDATE
+DELETE
+
+
+
+
+DDL (틀 저장)
+
+(구조변경)
+CREATE
+ALTER
+DROP
+RENAME
+TRUNCATE
+COMMENT
+
+
+
+DCL (허가)
+
+
+
+GRANT
+REVOKE
+
+
+
+
+TCL(트랜잭션 
+
+COMMIT
+ROLLBACK
+SAVEPOINT
